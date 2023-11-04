@@ -1,3 +1,4 @@
+// [Method 1] Using Scanner 
 // import java.util.Scanner;
 
 // public class aAddb {
@@ -13,6 +14,7 @@
 //   }
 // }
 
+// [Method 2] Using BufferedReader
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
