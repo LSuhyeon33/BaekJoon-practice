@@ -1,3 +1,7 @@
+// 문제 번호	  1000
+// 문제 이름	  A+B
+// 문제 내용	  두 수를 입력받고 합을 출력하는 문제
+
 // [Method 1] Using Scanner 
 // import java.util.Scanner;
 
@@ -20,7 +24,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-public class 2_1000 {
+public class _2_1000 {
   public static void main(String[] args) throws IOException {
 
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
