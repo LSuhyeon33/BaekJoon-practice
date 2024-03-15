@@ -1,6 +1,6 @@
 # BaekJoon-practice
 
-백준 단계별 문제 풀이에 대한 sourcecode repository 입니다.
+백준 단계별 문제 풀이에 대한 sourcecode repository 입니다.<br/>
 사용 언어: Java
 
 - 1단계 [입출력과 사칙연산]
