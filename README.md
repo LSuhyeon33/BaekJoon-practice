@@ -1,6 +1,7 @@
 # BaekJoon-practice
 
 백준 단계별 문제 풀이에 대한 sourcecode repository 입니다.
+사용 언어: Java
 
 - 1단계 [입출력과 사칙연산]
   - 문제 풀이 기간: 2023.11.05 ~ 2023.11.12
